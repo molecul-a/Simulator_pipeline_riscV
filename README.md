@@ -55,7 +55,7 @@ CPI: 1
 4. Execution - The simulator should be run according to the following table:
 Run	Trace file	Forwarding    	Branch resolution
 1	  trace1.txt	    0	                0
-2	  trace1.txt	    1                	0
+2	  trace1.txt	    1                 0
 4	  trace1.txt	    1	                1
 3	  trace1.txt	    0	                1
 5	  trace2.txt	    1	                1
