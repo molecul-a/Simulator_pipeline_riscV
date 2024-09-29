@@ -42,7 +42,3 @@ The simulator should be run according to the following table:
 
 ## Usage
 To run the simulator, compile `riscv.c` and execute it with the appropriate command line parameters and trace file.
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
